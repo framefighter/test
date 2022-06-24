@@ -1,0 +1,10 @@
+.back {
+  position: absolute;
+  -webkit-mask: url(https://raw.githubusercontent.com/framefighter/test/main/back.svg) no-repeat center;
+  mask: url(https://raw.githubusercontent.com/framefighter/test/main/back.svg) no-repeat center;
+}
+.label {
+  position: absolute;
+  -webkit-mask: url(https://raw.githubusercontent.com/framefighter/test/main/label.svg) no-repeat center;
+  mask: url(https://raw.githubusercontent.com/framefighter/test/main/label.svg) no-repeat center;
+}
